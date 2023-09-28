@@ -5,7 +5,7 @@
 <strong>About Project <strong>
 - 👋 Hello, enjoy your day!
 - ❤️ This Project is Practice Programming WEB
-- 🌱 learn to write HTML, CSS, JS, PHP code
+- 🌱 Learn to write HTML, CSS, JS, PHP code
 - 💞️ I’m looking to collaborate on Github
 - 👀 Work slowly, but never backwards
 
